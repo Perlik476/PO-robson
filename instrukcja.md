@@ -1,0 +1,1 @@
+Jest to projekt Maven korzystający z biblioteki Moshi. 
